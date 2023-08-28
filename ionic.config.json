@@ -1,0 +1,7 @@
+{
+  "name": "pideky",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
